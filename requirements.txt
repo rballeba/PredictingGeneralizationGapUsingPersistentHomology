@@ -1,0 +1,13 @@
+tensorflow==2.13.0
+numpy==1.24.3
+scipy==1.10.1
+scikit-learn==1.3.0
+pandas==2.0.3
+matplotlib==3.7.2
+# giotto-ph==0.2.2 # This cannot be installed for Python 3,11 yet. Installed
+# manually from the source code in the Dockerfile.
+giotto-tda==0.5.1
+dash==2.11.1
+kaleido
+seaborn==0.12.2
+plotly==5.15.0

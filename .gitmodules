@@ -1,0 +1,6 @@
+[submodule "giotto-ph"]
+	path = giotto-ph
+	url = https://github.com/rballeba/giotto-ph
+[submodule "giotto-tda"]
+	path = giotto-tda
+	url = https://github.com/rballeba/giotto-tda
