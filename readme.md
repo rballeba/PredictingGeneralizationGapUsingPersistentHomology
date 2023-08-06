@@ -65,6 +65,5 @@ After executing any of these two instructions, you only need to access http://lo
 After executing all the previous steps, the following command can be used to generate the plots of the paper. The plots will be saved in the results folder.
 
 ```bash
-```bash
 docker run --gpus '"device=<nvidia-smi devices sepparated by a comma>"' -v <google_data_path>:/home/google_data -v <results_path>:/app/results rballeba/activations_neurocom plot_figures /home/google_data /app/results
 ```
